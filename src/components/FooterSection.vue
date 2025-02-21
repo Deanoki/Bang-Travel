@@ -3,6 +3,10 @@
     <!-- Main Footer -->
     <div class="footer-main bg-danger text-white py-5">
       <div class="container">
+        <div class="d-flex flex-row mb-3">
+          <img src="@/assets/logo.png" alt="logo" />
+          <h3>Bang Travel</h3>
+        </div>
         <div class="row g-4">
           <!-- Office Address -->
           <div class="col-lg-3">
@@ -21,8 +25,8 @@
                   href="tel:+6281234567890"
                   class="text-white text-decoration-none"
                 >
-                  <i class="bi bi-telephone-fill me-2"></i>Phone: +62
-                  812-3456-7890
+                  <i class="bi bi-telephone-fill me-2"></i>Phone: +12
+                  813-3412-7820
                 </a>
               </li>
               <li class="mb-2">
@@ -39,7 +43,7 @@
                   href="https://wa.me/6281234567890"
                   class="text-white text-decoration-none"
                 >
-                  <i class="bi bi-whatsapp me-2"></i>WhatsApp: +62 812-3456-7890
+                  <i class="bi bi-whatsapp me-2"></i>WhatsApp: +12 813-3412-7820
                 </a>
               </li>
             </ul>

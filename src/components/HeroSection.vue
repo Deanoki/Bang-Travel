@@ -71,7 +71,8 @@ export default {
 
 .cards {
   z-index: 1;
-  margin-top: 10rem;
+  margin-top: 5rem;
+  margin-bottom: 4rem;
 }
 
 .hero-image img {

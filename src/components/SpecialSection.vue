@@ -23,8 +23,8 @@
     </div>
 
     <!-- Brand Section -->
-    <div class="position-relative">
-      <!-- <div class="background-box rounded-4 position-absolute"></div> -->
+    <!-- <div class="position-relative">
+      <div class="background-box rounded-4 position-absolute"></div>
       <div class="container-fluid my-5">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-auto text-center text-md-end mb-3 mb-md-0">
@@ -37,7 +37,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </section>
 </template>
 
